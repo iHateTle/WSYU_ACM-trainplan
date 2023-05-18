@@ -47,7 +47,7 @@ codeforces（偶然有，阴间时间22.35开始）/牛客周赛/ACwing周赛，
 
 #### C++ STL标准库函数:vector,queue,pair,map,set,sort,max,min,priority_queue
 
-#### 基础图论:领接表,链式前向星,Bellman_Ford,Floyd,dijkstra,prim,kruskal
+#### 基础图论:邻接表,链式前向星,Bellman_Ford,Floyd,dijkstra,prim,kruskal
 
 #### 基础数学:质数约,快速幂,筛法(线性筛),组合数,(扩展欧几里得,中国剩余定理,逆元,lucas定理,容斥)
 
