@@ -50,7 +50,11 @@
 
 #### 基础数据:栈,队列,链表,二叉树,[并查集](https://oi-wiki.org/ds/dsu/),[堆](https://oi-wiki.org/ds/heap/)
 
-#### C++ STL标准库函数:vector,queue,pair,map,set,sort,max,min,priority_queue
+#### C++ STL标准库:
+
+[vector,queue,pair,map,set,priority_queue](https://oi-wiki.org/lang/csl/container/)
+
+[stl算法](https://oi-wiki.org/lang/csl/algorithm/)
 
 #### 基础图论:邻接表,链式前向星,[Bellman_Ford,Floyd,dijkstra](https://oi-wiki.org/graph/shortest-path/),[kruskal,prim](https://oi-wiki.org/graph/mst/)
 
