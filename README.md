@@ -26,7 +26,7 @@
 这两个比赛分别是全球大学生程序设计竞赛/全国大学生程序设计竞赛。ACM就是ICPC的前身，只是现在改名字了，这个比赛三人一组，我校最好成绩省铜。
 
 ## 网络赛事
-codeforces（偶然有，阴间时间22.35开始）/牛客周赛/ACwing周赛，大家可以当作日常的训练去玩。
+[codeforces](https://codeforces.com/)（偶尔有，阴间时间22.35开始）/[atcoder](https://atcoder.jp/contests/)(偶尔有,一般8:00)开始/[牛客周赛](https://ac.nowcoder.com/)/[ACwing周赛](https://www.acwing.com/),大家可以当作日常的训练去玩。
 
 # 训练计划
 ## 算法基础
