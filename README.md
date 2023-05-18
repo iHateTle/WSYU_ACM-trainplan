@@ -39,7 +39,7 @@
 
 #### 打括号的是有一定难度的,可以先放一放,最后再学,进阶看个人,如果有能力就可以学,没能力就算了,但是如果想在XCPC拿奖,那么进阶是必须学一部分的
 
-#### 基础算法:[时间复杂度](https://oi-wiki.org/basic/complexity/),[枚举](https://oi-wiki.org/basic/enumerate/),[模拟](https://oi-wiki.org/basic/simulate/),[递归/分治](https://oi-wiki.org/basic/divide-and-conquer/),[二分](https://oi-wiki.org/basic/binary/),双指针,[前缀和/差分](https://oi-wiki.org/basic/prefix-sum/),[贪心](https://oi-wiki.org/basic/greedy/),[倍增](https://oi-wiki.org/basic/binary-lifting/),[构造](https://oi-wiki.org/basic/construction/),[dfs](https://oi-wiki.org/search/dfs/),[bfs](https://oi-wiki.org/search/bfs/),[位运算](https://oi-wiki.org/math/bit/)
+#### 基础算法:[时间复杂度](https://oi-wiki.org/basic/complexity/),[枚举](https://oi-wiki.org/basic/enumerate/),[模拟](https://oi-wiki.org/basic/simulate/),[递归/分治](https://oi-wiki.org/basic/divide-and-conquer/),[二分](https://oi-wiki.org/basic/binary/),[双指针](https://oi-wiki.org/misc/two-pointer/),[前缀和/差分](https://oi-wiki.org/basic/prefix-sum/),[贪心](https://oi-wiki.org/basic/greedy/),[倍增](https://oi-wiki.org/basic/binary-lifting/),[构造](https://oi-wiki.org/basic/construction/),[dfs](https://oi-wiki.org/search/dfs/),[bfs](https://oi-wiki.org/search/bfs/),[位运算](https://oi-wiki.org/math/bit/)
 
 #### 基础DP:背包问题,线性dp,区间dp
 
