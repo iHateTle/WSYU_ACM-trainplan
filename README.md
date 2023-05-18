@@ -29,10 +29,15 @@
 [codeforces](https://codeforces.com/)（偶尔有，阴间时间22.35开始）/[atcoder](https://atcoder.jp/contests/)(偶尔有,一般8:00)开始/[牛客周赛](https://ac.nowcoder.com/)/[ACwing周赛](https://www.acwing.com/),大家可以当作日常的训练去玩。
 
 # 训练计划
+## 前置知识
+
+#### C语言基础:[C Primer Plus](https://github.com/erhuoyan/bookrack/blob/master/C%20Primer%20Plus%20%E7%AC%AC6%E7%89%88%20%E4%B8%AD%E6%96%87%E7%89%88.pdf),[翁恺C语言课程](https://www.bilibili.com/video/BV1dr4y1n7vA/?spm_id_from=333.337.search-card.all.click&vd_source=ffeff80ff6ae6a3916599417ed5f1de7)
+
+#### 数据结构: [王卓数据结构](https://www.bilibili.com/video/BV1nJ411V7bd/?spm_id_from=333.337.search-card.all.click&vd_source=ffeff80ff6ae6a3916599417ed5f1de7)
+
 ## 算法基础
 ### 第一阶段
 群内资源有yxc的算法基础课,以及部分代码源初~中级课程(难度较大)，支持正版，不要外传，我们是校内学长买了录下来的。支持正版！！！支持正版！！！有钱的去买个正版
-
 
 要学的内容如下：
 ## PS:由于没买课程，ACwing的题目交不了，用ACsaber看题目，想练手速的练一下，不想练的自己写一下，要求能懂，能写就行。
@@ -41,19 +46,19 @@
 
 #### 基础算法:[时间复杂度](https://oi-wiki.org/basic/complexity/),[枚举](https://oi-wiki.org/basic/enumerate/),[模拟](https://oi-wiki.org/basic/simulate/),[递归/分治](https://oi-wiki.org/basic/divide-and-conquer/),[二分](https://oi-wiki.org/basic/binary/),[双指针](https://oi-wiki.org/misc/two-pointer/),[前缀和/差分](https://oi-wiki.org/basic/prefix-sum/),[贪心](https://oi-wiki.org/basic/greedy/),[倍增](https://oi-wiki.org/basic/binary-lifting/),[构造](https://oi-wiki.org/basic/construction/),[dfs](https://oi-wiki.org/search/dfs/),[bfs](https://oi-wiki.org/search/bfs/),[位运算](https://oi-wiki.org/math/bit/)
 
-#### 基础DP:背包问题,线性dp,区间dp
+#### 基础DP:[线性dp](https://oi-wiki.org/dp/basic/),[记忆化搜索](https://oi-wiki.org/dp/memo/),[背包问题](https://oi-wiki.org/dp/knapsack/),[区间dp](https://oi-wiki.org/dp/interval/)
 
-#### 基础数据:栈,队列,链表,堆,二叉树,并查集
+#### 基础数据:栈,队列,链表,二叉树,[并查集](https://oi-wiki.org/ds/dsu/),[堆](https://oi-wiki.org/ds/heap/)
 
 #### C++ STL标准库函数:vector,queue,pair,map,set,sort,max,min,priority_queue
 
-#### 基础图论:邻接表,链式前向星,Bellman_Ford,Floyd,dijkstra,prim,kruskal
+#### 基础图论:邻接表,链式前向星,[Bellman_Ford,Floyd,dijkstra](https://oi-wiki.org/graph/shortest-path/),[kruskal,prim](https://oi-wiki.org/graph/mst/)
 
-#### 基础数学:质数约,快速幂,筛法(线性筛),组合数,(扩展欧几里得,中国剩余定理,逆元,lucas定理,容斥)
+#### 基础数学:[质数](https://oi-wiki.org/math/number-theory/prime/),[最大公约数](https://oi-wiki.org/math/number-theory/gcd/),快速幂,[筛法](https://oi-wiki.org/math/number-theory/sieve/),[组合数学基础](https://oi-wiki.org/math/combinatorics/combination/),(扩展欧几里得,[线性同余方程](https://oi-wiki.org/math/number-theory/linear-equation/),[中国剩余定理](https://oi-wiki.org/math/number-theory/crt/),[逆元](https://oi-wiki.org/math/number-theory/inverse/),[lucas定理](https://oi-wiki.org/math/number-theory/lucas/))
 
-#### 字符串:kmp,(字符串hash,字典树)
+#### 字符串:[kmp](https://oi-wiki.org/string/kmp/),[字符串hash](https://oi-wiki.org/string/hash/),[字典树](https://oi-wiki.org/string/trie/)
 
-#### 树论:LCA,DFN等
+#### 树论:[树基础](https://oi-wiki.org/graph/tree-basic/),[LCA](https://oi-wiki.org/graph/lca/),DFN等
 
 ## 以下是进阶算法
 
